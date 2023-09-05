@@ -18,9 +18,8 @@ source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
 ```
-# proyectos_pythpn
 
-Para crear ambiente virtual usuario windows
+# ambiente virtual usuario windows
 
 ```sh
 ubicados en la carpeta donde queremos instalar ambiente virtual bash de windows: python3 -m venv env
